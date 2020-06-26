@@ -1,0 +1,18 @@
+body {
+    background-color:  rgb(133, 133, 136);
+    font-family: "Helvetica new", Arial, Helvetica, sans-serif;
+}
+
+main {
+    display: flex;
+    max-width: 100%;
+}
+
+img {
+    max-width: 100%;
+}
+
+h1 {
+    background-color:   rgb(74, 74, 77);
+    color: black;
+}
